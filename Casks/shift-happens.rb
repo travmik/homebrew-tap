@@ -1,8 +1,8 @@
 cask "shift-happens" do
-  version "0.1.0"
-  sha256 "3f78e1ec0fd6c0ca172e5d7878c374d19ee451586ec7c7e57ccd9fe337268c51"
+  version "0.1.1"
+  sha256 "141adf0beee0732ff6828ddaf6da90be9e73a821cb661997fec80fe9194e0ba8"
 
-  url "https://github.com/travmik/shift-happens/releases/download/v0.1.0/ShiftHappens-v0.1.0-arm64.tar.gz"
+  url "https://github.com/travmik/shift-happens/releases/download/v0.1.1/ShiftHappens-v0.1.1-arm64.tar.gz"
   name "Shift Happens"
   desc "Menu bar utility that fixes text typed in the wrong keyboard layout"
   homepage "https://github.com/travmik/shift-happens"
